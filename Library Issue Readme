@@ -1,0 +1,2 @@
+# using the RPA.PDF library and the html_to_pdf() function does not work to create a PDF file from html content despite it being used in the first course
+# it seems like the library does not contain any function to do this anymore. Nevertheless used this library for demonstration purposes. 
